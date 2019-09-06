@@ -1,0 +1,10 @@
+<p><strong>codigo:</strong><?php echo $producto->codigo?></p>
+<p><strong>detalle_producto:</strong><?php echo $producto->detalle_producto?></p>
+<p><strong>codigo:</strong><?php echo $producto->codigo;?></p>
+<p><strong>precio_compra:</strong><?php echo $producto->precio_compra;?></p>
+<p><strong>precio_venta:</strong><?php echo $producto->precio_venta;?></p>
+<p><strong>Stock_minimo:</strong><?php echo $producto->stock_minimo;?></p>
+<p><strong>Stock:</strong><?php echo $producto->stock;?></p>
+<p><strong>id_categoria:</strong><?php echo $producto->categoria;?></p>
+<p><strong>id_marca:</strong><?php echo $producto->marca;?></p>
+<p><strong>estado:</strong><?php echo $producto->estado;?></p>
